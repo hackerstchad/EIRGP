@@ -1,4 +1,8 @@
 # EIGRP – Enhanced Interior Gateway Routing Protocol
+
+<img width="1248" height="832" alt="OIG2" src="https://github.com/user-attachments/assets/3e0e4278-2187-43c5-8fbf-c9257aba5c60" />
+
+
 ## Guide complet, avancé et pratique
 
 ---
